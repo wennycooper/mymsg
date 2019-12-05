@@ -1,0 +1,4 @@
+/home/kkuei/mymsg/build/CMakeFiles/edit_cache.dir
+/home/kkuei/mymsg/build/CMakeFiles/rebuild_cache.dir
+/home/kkuei/mymsg/build/CMakeFiles/MyMsg.dir
+/home/kkuei/mymsg/build/CMakeFiles/MyMsg_lib.dir

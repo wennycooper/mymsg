@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyMsg_lib.a  CMakeFiles/MyMsg_lib.dir/MyMsg.cxx.o
+/usr/bin/ranlib libMyMsg_lib.a
